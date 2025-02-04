@@ -1,0 +1,8 @@
+python-telegram-bot==13.15
+bip-utils
+requests
+python-dotenv
+psycopg2
+apscheduler
+pytz
+aiohttp
